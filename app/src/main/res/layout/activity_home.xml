@@ -35,7 +35,7 @@
         />
 <Button
     android:id="@+id/botonhoteles"
-    android:backgroundTint="@color/colorPrimary"
+  android:backgroundTint="@drawable/botonredondo"
     android:text="HOTELES"
     android:layout_marginHorizontal="30dp"
     android:layout_width="match_parent"
@@ -78,5 +78,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintVertical_bias="0.02"
 
-        />
+        tools:ignore="MissingConstraints" />
 </android.support.constraint.ConstraintLayout>

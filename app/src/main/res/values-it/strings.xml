@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Puebliando1</string>
     <string name="resenahoteles">
@@ -8,5 +9,4 @@ Considerando que el desconocimiento y el menosprecio de los derechos humanos han
         el advenimiento de un mundo en que los seres humanos, liberados del temor y
         de la miseria, disfruten de la libertad de palabra y de la libertad de creencias;
     </string>
-
 </resources>

@@ -1,13 +1,70 @@
 package com.example.puebliando1;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.Toast;
 
 public class Home extends AppCompatActivity {
 
+    //ZONA DE LOS ATRIBUTOS
+    Button botonHoteles;
+    Button botonRestaurantes;
+    Button botonTurismo;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate  (savedInstanceState);
         setContentView(R.layout.activity_home);
+
+        botonHoteles=findViewById(R.id.botonhoteles);
+        botonRestaurantes=findViewById(R.id.botonrestaurantes);
+        botonTurismo=findViewById(R.id.botonsitiosturisticos);
+
+        //detectando eventos
+        botonHoteles.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(Home.this, "hice clic", Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        botonRestaurantes.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(Home.this, "hice clic", Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        botonTurismo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(Home.this, "hice clic", Toast.LENGTH_SHORT).show();
+            }
+        });
+
+    }
+    public boolean onCreateOptionsMenu(Menu menujava){
+        getMenuInflater().inflate(R.menu.menu,menujava);
+        return true;
+
+    }
+    public boolean onOptionsItemSelect(MenuItem item){
+    int itemseleccionado= item.getItemId();
+    switch (itemseleccionado){
+        case(R.id.opcion1):
+            break;
+        case (R.id.opcion2) :
+            break;
+        case (R.id.opcion3) :
+            break;
+        case (R.id.opcion4) :
+            break;
+
+    }
+return super.onOptionsItemSelected(item);
     }
 }

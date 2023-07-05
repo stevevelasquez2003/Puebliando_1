@@ -2,11 +2,37 @@
 <resources>
     <string name="app_name">Puebliando1</string>
     <string name="resenahoteles">
-        Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana;
-
-Considerando que el desconocimiento y el menosprecio de los derechos humanos han originado
-        actos de barbarie ultrajantes para la conciencia de la humanidad, y que se ha proclamado, como la aspiracion mas elevada del hombre,
-        el advenimiento de un mundo en que los seres humanos, liberados del temor y
-        de la miseria, disfruten de la libertad de palabra y de la libertad de creencias;
+        Avrai un tour per guatape partenze da medellin, festa in barca, cibo e molti altri contatti.
+        scopri la città più emblematica di Antioquia e acquista untur a guatape e sarai felice del meraviglioso
+        paesaggi, accompagnati da un'imponente roccia e godere di attività acquatiche.
+        SPERIAMO DI VEDERTI
     </string>
+    <string name="resenarestaurantes">
+In guatape troverai molte aree o luoghi con ristoranti con cibo delizioso come:
+        la deliziosa bandeja paisa con riso bianco, chicharron, sanguinaccio, chorizo, uovo, patacon, avocado, fette, fagioli e carne macinata.
+        Un altro cibo delizioso che troverai è la deliziosa arepa ripiena di carne tritata, guacamole, maduro, mozzarella, pollo tra gli altri condimenti.
+        Un altro alimento delizioso che troverete in questo caso è il dolce pionono fatto con pasta frolla, che viene farcita e arrotolata per decorare.
+    </string>
+    <string name="resenasitiosturisticos">
+       Questo tour, sebbene si chiami Tour to Guatapé, può anche essere chiamato Tour Piedra del Peñol, poiché visitiamo questi 2 luoghi, non solo la bellissima e colorata città
+        , anche la grande Piedra del Peñol.
+        PIETRA DEL PEÑOL.
+    Goditi un esperienza indimenticabile mentre sali su "La Piedra", una delle strutture monolitiche più alte del mondo. Situato nella regione di Guatapé, questo sito unico è una sfida da conquistare e ti farà sentire un piccolo essere umano. Scendi in soggezione e scopri le migliori viste del Sud America mentre impari la storia dietro a tutto.
+    DIGA
+    Questo sarà un tour affascinante che ti piacerà. Puoi incontrare un bellissimo lago creato dall uomo, in realtà è una diga. Parlando un po di storia; Antioquia aveva una fonte per fornire energia, ma la domanda di elettricità del paese richiedeva di più.
+    La diga di Guatapé è stata realizzata per creare un interconnessione con gli altri bacini della Colombia e coprire così il fabbisogno dell intero territorio. Tra l aprile 1978 e il maggio 1979, gli sgomberi e l'immediata demolizione delle case hanno fatto parte della vita quotidiana nella città di Old Peñol, finché alla fine tutti sono stati raggiunti in quella che oggi è conosciuta come la città di Nuevo Peñol .
+    Il progetto del bacino idrico di Guatapé è stimato in 45 milioni di dollari, che per l'epoca era una cifra impressionante.
+    GENTE DI GUATAPE
+    Guatapé è un comune o paese colombiano che si trova nel dipartimento di Antioquia, lo troviamo a due ore dalla città di Medellín.
+    Questo comune è famoso in tutto il mondo per essere la casa di una meraviglia naturale chiamata Piedra del Peñol, per la sua diga artificiale e anche per tutto il colore che si trova all'interno della città nei suoi Zócalos.
+    Possiamo dire che gli zócalos sono opere artistiche, per lo più in 3D che si trovano nella parte bassa delle case della città di Guatapé.
+
+    </string>
+
+
+    <string name="opcion1">Inglese</string>
+    <string name="opcion2">spagnolo</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Di</string>
+
 </resources>

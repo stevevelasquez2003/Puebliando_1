@@ -2,11 +2,33 @@
 <resources>
     <string name="app_name">Puebliando1</string>
     <string name="resenahoteles">
-        Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana;
-
-Considerando que el desconocimiento y el menosprecio de los derechos humanos han originado
-        actos de barbarie ultrajantes para la conciencia de la humanidad, y que se ha proclamado, como la aspiracion mas elevada del hombre,
-        el advenimiento de un mundo en que los seres humanos, liberados del temor y
-        de la miseria, disfruten de la libertad de palabra y de la libertad de creencias;
+        You will have a tour to guatape departures from medellin, party boat, food and many more contacts.
+        discover the most emblematic town of antioquia and buy untur a guatape and you will be happy with the wonderful
+        landscapes, accompanied by an imposing rock and enjoy water activities.
+        WE HOPE TO SEE YOU
     </string>
+    <string name="resenarestaurantes">
+        In guatape you will find many areas or places with restaurants with delicious food such as:
+        the delicious bandeja paisa with white rice, chicharron, blood sausage, chorizo, egg, patacon, avocado, slices, beans and ground meat.
+        Another delicious food that you will find is the delicious arepa stuffed with shredded meat, guacamole, maduro, mozarella cheese, chicken among other seasonings.
+        Another delicious food that you will find in this case is the pionono Dessert made with pastry dough, which is filled and rolled to decorate.
+    </string>
+    <string name="resenasitiosturisticos">
+This tour, although it is called Tour to Guatapé, can also be called Tour Piedra del Peñol, since we visit these 2 places, not only the beautiful and colorful town
+    , also the great Piedra del Peñol.
+    PEÑOL STONE.
+Enjoy an unforgettable experience as you climb "La Piedra", one of the tallest monolithic structures in the world. Located in the Guatapé region, this unique site is a challenge to conquer and will make you feel like a little human being. Descend in awe and discover the best views of South America while learning the history behind it all.
+DAM
+This will be a fascinating tour that you will enjoy. You can meet a beautiful lake created by man, it is actually a dam. Speaking a bit of history; Antioquia had a source to supply energy, but the countrys demand for electricity needed more.
+The Guatapé dam was built to create an interconnection with the other reservoirs in Colombia and thus cover the needs of the entire territory. Between April 1978 and May 1979, evictions and their immediate demolition of houses were part of daily life in the town of Old Peñol, until finally all of them were relocated to what is now known as the town of Nuevo Peñol.
+The Guatapé reservoir project is estimated at 45 million dollars, which for the time was an impressive amount.
+PEOPLE OF GUATAPE
+Guatapé is a Colombian municipality or town that is located in the department of Antioquia, we find it two hours from the city of Medellín.
+This municipality is famous worldwide for being the home of a natural wonder called the Piedra del Peñol, for its artificial dam and also for all the color that is found within the town in its Zócalos.
+We can say that the zócalos are artistic works, mostly in 3D that are in the lower part of the houses of the town of Guatapé.
+</string>
+    <string name="opcion1">English</string>
+    <string name="opcion2">Spanish</string>
+    <string name="opcion3">Italian</string>
+    <string name="opcion4">About us</string>
 </resources>

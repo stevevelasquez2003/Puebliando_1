@@ -4,14 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-
+android:background="@drawable/hoteles"
     tools:context=".HotelesHome">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="668dp"
-        android:text="SAN PEDRO"
+        android:text="GUATAPE"
+        android:fontFamily="casual"
         android:textAlignment="center"
         android:textSize="15dp"
         android:textStyle="bold"
@@ -22,27 +23,28 @@
 
     <TextView
         android:id="@+id/hotelesyturismo"
-        android:layout_width="399dp"
-        android:layout_height="283dp"
+        android:layout_width="395dp"
+        android:layout_height="243dp"
         android:text="@string/resenahoteles"
+        android:textColor="@color/white"
         android:textAlignment="center"
+        android:textSize="20dp"
+
+
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.444"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-
-        app:layout_constraintVertical_bias="0.305" />
+        app:layout_constraintVertical_bias="0.27" />
 
     <ImageView
         android:id="@+id/logohotel"
         android:layout_width="111dp"
         android:layout_height="104dp"
         android:src="@drawable/hotel"
-
         tools:layout_editor_absoluteX="150dp"
-        tools:layout_editor_absoluteY="408dp" />
+        tools:layout_editor_absoluteY="435dp" />
 
     <Button
         android:id="@+id/botonvermas"
@@ -51,10 +53,10 @@
         android:layout_marginHorizontal="20dp"
         android:layout_marginEnd="148dp"
         android:layout_marginBottom="60dp"
-        android:backgroundTint="@color/mediumpurple"
         android:text="Vermas"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        android:background="@drawable/boton_personalizado"
         app:layout_constraintTop_toBottomOf="0.42dp" />
 
 

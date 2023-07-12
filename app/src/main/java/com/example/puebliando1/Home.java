@@ -1,5 +1,6 @@
 package com.example.puebliando1;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
@@ -28,22 +29,24 @@ public class Home extends AppCompatActivity {
         botonHoteles.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(Home.this, "hice clic", Toast.LENGTH_SHORT).show();
+                Intent intenthotel = new Intent(Home.this,HotelesHome.class);
+                startActivity(intenthotel);
             }
         });
 
         botonRestaurantes.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(Home.this, "hice clic", Toast.LENGTH_SHORT).show();
+                Intent intentrest = new Intent(Home.this,Restaurantes.class);
+                startActivity(intentrest);
             }
         });
 
         botonTurismo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(Home.this, "hice clic", Toast.LENGTH_SHORT).show();
-            }
+                Intent intenturismo = new Intent(Home.this,Sitios.class);
+                startActivity(intenturismo);            }
         });
 
     }

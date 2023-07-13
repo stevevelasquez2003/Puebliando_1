@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 //lanzo el home o activo el home
-                Intent lanzamiento= new Intent(MainActivity.this,Home.class);
+                Intent lanzamiento= new Intent(MainActivity.this,Login.class);
                 startActivity(lanzamiento);
 
             }

@@ -65,9 +65,16 @@ public class Home extends AppCompatActivity {
         case (R.id.opcion3) :
             break;
         case (R.id.opcion4) :
+
+            Intent intent = new Intent(Home.this,Acerca.class);
+            startActivity(intent);
             break;
+
 
     }
 return super.onOptionsItemSelected(item);
     }
+public void cambiaridioma(String idiooma){
+
+}
 }

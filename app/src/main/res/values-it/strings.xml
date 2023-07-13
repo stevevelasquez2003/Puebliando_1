@@ -2,35 +2,33 @@
 <resources>
     <string name="app_name">Puebliando1</string>
     <string name="resenahoteles">
-        Avrai un tour per guatape partenze da medellin, festa in barca, cibo e molti altri contatti.
-        scopri la città più emblematica di Antioquia e acquista untur a guatape e sarai felice del meraviglioso
-        paesaggi, accompagnati da un'imponente roccia e godere di attività acquatiche.
-        SPERIAMO DI VEDERTI
+        You will have a tour to guatape departures from medellin, party boat, food and many more contacts.
+        discover the most emblematic town of antioquia and buy untur a guatape and you will be happy with the wonderful
+        landscapes, accompanied by an imposing rock and enjoy water activities.
+        WE HOPE TO SEE YOU
     </string>
     <string name="resenarestaurantes">
-En guatape te encontraras muchas zonas o lugares con restaurantes con comida deliciosa como:
-        la deliciosa bandeja paisa con arroz blanco,chicharron,morcilla,chorizo,huevo,patacon,aguacate,tajadas,frijoles y carne molida.
-        Otro deliciosa comida que encontraras es la  deliciosa arepa rellena con carne desmechada,guacamole,maduro,queso mozarella,pollo entre otros condimentos.
-        Otra delicioso comida que encotraras es en este caso  es el pionono Postre elaborado con masa de repostería, el cual se rellena y enrolla para decorarse.    </string>
-    <string name="resenasitiosturisticos">
-       tour aunque es llamado Tour a Guatapé también puede ser llamado Tour Piedra del Peñol, ya que visitamos estos 2 lugares, no solo el hermoso y colorido pueblo
-         también la grandiosa Piedra del Peñol.
-        PIEDRA DEL PEÑOL.
-    Disfruta de una experiencia inolvidable mientras subes a La Piedra una de las estructuras monolíticas más altas del mundo. Ubicado en la región de Guatapé, este sitio único es un desafío a conquistar y te hará sentir como un pequeño ser humano. Descienda con asombro y descubra las mejores vistas de América del Sur mientras aprende la historia detrás de todo.
-    REPRESA
-    Este será un recorrido fascinante que podrá disfrutar. Puedes conocer un hermoso lago creado por el hombre, en realidad es una represa. Hablando un poco de historia; Antioquia tenía una fuente para abastecer de energía, pero la demanda de energía eléctrica del país necesitaba más.
-    La represa de Guatapé fue construida para crear una interconexión con los demás embalses de Colombia y así cubrir las necesidades de todo el territorio”. Entre abril del año de 1978 y mayo de 1979, los desalojos y su inmediata demolición de viviendas fueron parte de la vida cotidiana del pueblo del viejo Peñol, hasta que finalmente todos fueron reubicados a lo que hoy se conoce como el pueblo del nuevo peñol.
-    El proyecto del embalse de guatapé se estima en 45 millones de dólares, lo que para la época era una cantidad impresionante.
-    PUEBLO DE GUATAPE
-    Guatapé es un municipio o pueblo colombiano que se encuentra ubicado en el departamento de Antioquia, lo encontramos a dos horas de la ciudad de Medellín.
-    Este municipio es famoso mundialmente por ser el hogar de una maravilla natural llamada la Piedra del Peñol, por su represa artificial y también por todo el colorido que se encuentra dentro del pueblo en sus Zócalos.
-    Podemos decir que los zócalos son obras artísticas, en su mayoría en 3D que están en la parte inferior de las viviendas del pueblo de Guatapé.
+        In guatape you will find many areas or places with restaurants with delicious food such as:
+        the delicious bandeja paisa with white rice, chicharron, blood sausage, chorizo, egg, patacon, avocado, slices, beans and ground meat.
+        Another delicious food that you will find is the delicious arepa stuffed with shredded meat, guacamole, maduro, mozarella cheese, chicken among other seasonings.
+        Another delicious food that you will find in this case is the pionono Dessert made with pastry dough, which is filled and rolled to decorate.
     </string>
-
-
-    <string name="opcion1">Inglese</string>
-    <string name="opcion2">spagnolo</string>
-    <string name="opcion3">Italiano</string>
-    <string name="opcion4">Di</string>
-
+    <string name="resenasitiosturisticos">
+This tour, although it is called Tour to Guatapé, can also be called Tour Piedra del Peñol, since we visit these 2 places, not only the beautiful and colorful town
+    , also the great Piedra del Peñol.
+    PEÑOL STONE.
+Enjoy an unforgettable experience as you climb "La Piedra", one of the tallest monolithic structures in the world. Located in the Guatapé region, this unique site is a challenge to conquer and will make you feel like a little human being. Descend in awe and discover the best views of South America while learning the history behind it all.
+DAM
+This will be a fascinating tour that you will enjoy. You can meet a beautiful lake created by man, it is actually a dam. Speaking a bit of history; Antioquia had a source to supply energy, but the countrys demand for electricity needed more.
+The Guatapé dam was built to create an interconnection with the other reservoirs in Colombia and thus cover the needs of the entire territory. Between April 1978 and May 1979, evictions and their immediate demolition of houses were part of daily life in the town of Old Peñol, until finally all of them were relocated to what is now known as the town of Nuevo Peñol.
+The Guatapé reservoir project is estimated at 45 million dollars, which for the time was an impressive amount.
+PEOPLE OF GUATAPE
+Guatapé is a Colombian municipality or town that is located in the department of Antioquia, we find it two hours from the city of Medellín.
+This municipality is famous worldwide for being the home of a natural wonder called the Piedra del Peñol, for its artificial dam and also for all the color that is found within the town in its Zócalos.
+We can say that the zócalos are artistic works, mostly in 3D that are in the lower part of the houses of the town of Guatapé.
+</string>
+    <string name="opcion1">English</string>
+    <string name="opcion2">Spanish</string>
+    <string name="opcion3">Italian</string>
+    <string name="opcion4">About us</string>
 </resources>

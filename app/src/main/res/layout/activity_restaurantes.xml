@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/restaurantess"
+    android:background="@drawable/fondosi"
     tools:context=".Restaurantes">
 
     <TextView
@@ -40,7 +40,7 @@
         android:id="@+id/logohotel"
         android:layout_width="266dp"
         android:layout_height="208dp"
-        android:layout_marginStart="88dp"
+        android:layout_marginStart="72dp"
         android:src="@drawable/logore"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -52,7 +52,7 @@
         android:layout_width="164dp"
         android:layout_height="60dp"
         android:layout_marginHorizontal="20dp"
-        android:layout_marginEnd="108dp"
+        android:layout_marginEnd="124dp"
         android:layout_marginBottom="40dp"
         android:background="@drawable/boton_personalizado"
         android:text="Vermas"

@@ -71,4 +71,36 @@ android:background="@drawable/home"
 
         app:layout_constraintVertical_bias="0.145"
         tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/bienvenido"
+        android:layout_width="188dp"
+        android:layout_height="57dp"
+        android:layout_marginBottom="120dp"
+        android:fontFamily="cursive"
+        android:text="Bienvenido"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.565"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/cliente"
+        android:layout_width="136dp"
+        android:layout_height="51dp"
+        android:layout_marginBottom="52dp"
+        android:fontFamily="cursive"
+        android:text="Cliente"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintStart_toStartOf="parent" />
 </android.support.constraint.ConstraintLayout>

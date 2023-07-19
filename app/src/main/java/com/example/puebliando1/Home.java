@@ -7,6 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class Home extends AppCompatActivity {
@@ -16,6 +17,9 @@ public class Home extends AppCompatActivity {
     Button botonRestaurantes;
     Button botonTurismo;
 
+    TextView nombreCliente;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate  (savedInstanceState);
@@ -24,8 +28,16 @@ public class Home extends AppCompatActivity {
         botonHoteles=findViewById(R.id.botonhoteles);
         botonRestaurantes=findViewById(R.id.botonrestaurantes);
         botonTurismo=findViewById(R.id.botonsitiosturisticos);
+        nombreCliente=findViewById(R.id.cliente);
+        //uniendo el texto putextra con el textview
+
+
+
+        String nombre = getIntent().getStringExtra("nombre");
 
         //detectando eventos
+
+        nombreCliente.setText(nombre);
         botonHoteles.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

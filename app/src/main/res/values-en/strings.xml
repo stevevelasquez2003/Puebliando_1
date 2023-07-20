@@ -15,7 +15,7 @@
     </string>
     <string name="resenasitiosturisticos">
 This tour, although it is called Tour to Guatapé, can also be called Tour Piedra del Peñol, since we visit these 2 places, not only the beautiful and colorful town
-    , also the great Piedra del Peñol.
+     also the great Piedra del Peñol.
     PEÑOL STONE.
 Enjoy an unforgettable experience as you climb "La Piedra", one of the tallest monolithic structures in the world. Located in the Guatapé region, this unique site is a challenge to conquer and will make you feel like a little human being. Descend in awe and discover the best views of South America while learning the history behind it all.
 DAM
@@ -31,4 +31,13 @@ We can say that the zócalos are artistic works, mostly in 3D that are in the lo
     <string name="opcion2">Spanish</string>
     <string name="opcion3">Italian</string>
     <string name="opcion4">About us</string>
+
+    <string name="usuario">name</string>
+    <string name="contrasena">password</string>
+    <string name="ingresar">get into</string>
+    <string name="hoteles">hotels</string>
+    <string name="restaurantes">restaurants</string>
+    <string name="sitiosTuristicos">tourist sites</string>
+    <string name="vermas">see more</string>
+    <string name="Bienevenido">welcome</string>
 </resources>

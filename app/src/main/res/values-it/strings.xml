@@ -27,8 +27,17 @@ Guatapé is a Colombian municipality or town that is located in the department o
 This municipality is famous worldwide for being the home of a natural wonder called the Piedra del Peñol, for its artificial dam and also for all the color that is found within the town in its Zócalos.
 We can say that the zócalos are artistic works, mostly in 3D that are in the lower part of the houses of the town of Guatapé.
 </string>
-    <string name="opcion1">English</string>
-    <string name="opcion2">Spanish</string>
-    <string name="opcion3">Italian</string>
-    <string name="opcion4">About us</string>
+    <string name="opcion1">Inglese</string>
+    <string name="opcion2">spagnolo</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Di</string>
+
+    <string name="usuario">utente</string>
+    <string name="contrasena">parola dordine</string>
+    <string name="ingresar">entrare dentro</string>
+    <string name="hoteles">Alberghi</string>
+    <string name="restaurantes">ristoranti</string>
+    <string name="sitiosTuristicos">siti turistici</string>
+    <string name="vermas">Vedi altro</string>
+    <string name="Bienevenido">Benvenuto</string>
 </resources>

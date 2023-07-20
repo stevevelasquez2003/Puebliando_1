@@ -30,4 +30,13 @@
     <string name="opcion2">Español</string>
     <string name="opcion3">Italiano</string>
     <string name="opcion4">Acerca de</string>
+
+    <string name="usuario">nombre</string>
+    <string name="contrasena">contraseña</string>
+    <string name="ingresar">ingresar</string>
+    <string name="hoteles">hoteles</string>
+    <string name="restaurantes">restaurantes</string>
+    <string name="sitiosTuristicos">turismo</string>
+    <string name="vermas">vermas</string>
+    <string name="Bienevenido">Bienevenido</string>
 </resources>

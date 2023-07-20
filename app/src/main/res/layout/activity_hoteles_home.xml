@@ -54,7 +54,7 @@ android:background="@drawable/fondosi"
         android:layout_marginEnd="104dp"
         android:layout_marginBottom="64dp"
         android:background="@drawable/boton_personalizado"
-        android:text="Vermas"
+        android:text="vermas"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 

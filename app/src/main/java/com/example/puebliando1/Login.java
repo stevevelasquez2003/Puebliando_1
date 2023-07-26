@@ -47,5 +47,11 @@ startActivity(intent);
         Toast.makeText(this,"su nombre es :  "+ nombreUsuario,Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "su contraseña es : "+ passwordUsuario, Toast.LENGTH_SHORT).show();
 
+
+
+
+
+
+
     }
 }

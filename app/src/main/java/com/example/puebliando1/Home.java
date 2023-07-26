@@ -64,6 +64,8 @@ public class Home extends AppCompatActivity {
                 startActivity(intenturismo);            }
         });
 
+
+
     }
 
     public void cambiarIdioma(String idioma){

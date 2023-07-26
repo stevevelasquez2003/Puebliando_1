@@ -8,10 +8,10 @@
         WE HOPE TO SEE YOU
     </string>
     <string name="resenarestaurantes">
-        In guatape you will find many areas or places with restaurants with delicious food such as:
-        the delicious bandeja paisa with white rice, chicharron, blood sausage, chorizo, egg, patacon, avocado, slices, beans and ground meat.
-        Another delicious food that you will find is the delicious arepa stuffed with shredded meat, guacamole, maduro, mozarella cheese, chicken among other seasonings.
-        Another delicious food that you will find in this case is the pionono Dessert made with pastry dough, which is filled and rolled to decorate.
+       In guatape troverai molte aree o luoghi con ristoranti con cibo delizioso come
+         la deliziosa bandeja paisa con riso bianco, chicharron, sanguinaccio, chorizo, uovo, patacon, avocado, fette, fagioli e carne macinata
+         Un altro cibo delizioso che troverai e la deliziosa arepa ripiena di carne tritata guacamole, maduro mozzarella pollo tra gli altri condimenti
+         Un altro alimento delizioso che troverete in questo caso e il dolce pionono fatto con pasta frolla che viene farcita e arrotolata per decorare
     </string>
     <string name="resenasitiosturisticos">
 This tour, although it is called Tour to Guatapé, can also be called Tour Piedra del Peñol, since we visit these 2 places, not only the beautiful and colorful town
@@ -27,6 +27,11 @@ Guatapé is a Colombian municipality or town that is located in the department o
 This municipality is famous worldwide for being the home of a natural wonder called the Piedra del Peñol, for its artificial dam and also for all the color that is found within the town in its Zócalos.
 We can say that the zócalos are artistic works, mostly in 3D that are in the lower part of the houses of the town of Guatapé.
 </string>
+    <string name="resenapersonal">
+  Hello, my name is Steven Arango Velasquez. I am currently doing the software development technique,
+     I am doing a Javascript and English course, I really like everything that is related to technology,
+     I like drawing and everything related to architecture </string>
+
     <string name="opcion1">English</string>
     <string name="opcion2">Spanish</string>
     <string name="opcion3">Italian</string>

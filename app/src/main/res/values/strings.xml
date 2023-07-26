@@ -26,6 +26,14 @@
     Este municipio es famoso mundialmente por ser el hogar de una maravilla natural llamada la Piedra del Peñol, por su represa artificial y también por todo el colorido que se encuentra dentro del pueblo en sus Zócalos.
     Podemos decir que los zócalos son obras artísticas, en su mayoría en 3D que están en la parte inferior de las viviendas del pueblo de Guatapé.
     </string>
+
+    <string name="resenapersonal">
+    Hola mi nombre es steven arango velasquez actualmente estoy haciendo la tecnica de desarollo de software,
+        estoy haciendo un curso de javascript y de ingles megusta mucho todo lo que esta relacionado con la tecnologia,
+        me gusta el dibujo y lo relacionado a la arquiyectura
+
+    </string>
+
     <string name="opcion1">Ingles</string>
     <string name="opcion2">Español</string>
     <string name="opcion3">Italiano</string>
@@ -39,4 +47,5 @@
     <string name="sitiosTuristicos">turismo</string>
     <string name="vermas">vermas</string>
     <string name="Bienevenido">Bienevenido</string>
+
 </resources>

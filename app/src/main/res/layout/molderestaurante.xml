@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/fondosi"
+    android:background="@drawable/fondore"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <TextView
@@ -22,7 +22,7 @@
     <ImageView
         android:id="@+id/fotoListaHotel"
         android:layout_width="411dp"
-        android:layout_height="252dp"
+        android:layout_height="253dp"
         android:scaleType="fitXY"
         android:src="@drawable/restaurantezz"
         app:layout_constraintBottom_toBottomOf="parent"

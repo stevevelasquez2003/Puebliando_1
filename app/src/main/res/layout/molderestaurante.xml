@@ -7,6 +7,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <TextView
+        android:id="@+id/nombreListaRestaurante"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Al Carbón Parrilla Bar"
@@ -20,7 +21,7 @@
         app:layout_constraintVertical_bias="0.022" />
 
     <ImageView
-        android:id="@+id/fotoListaHotel"
+        android:id="@+id/fotoListaRestaurante"
         android:layout_width="411dp"
         android:layout_height="253dp"
         android:scaleType="fitXY"
@@ -32,10 +33,10 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.13" />
     <TextView
-        android:id="@+id/RangoHoteles"
+        android:id="@+id/RangoRestaurantes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toBottomOf="@id/fotoListaHotel"
+        app:layout_constraintTop_toBottomOf="@id/fotoListaRestaurante"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -45,10 +46,10 @@
         android:textSize="15dp"
         />
     <TextView
-        android:id="@+id/Telefono"
+        android:id="@+id/TelefonoRestaurante"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintTop_toBottomOf="@id/fotoListaHotel"
+        app:layout_constraintTop_toBottomOf="@id/fotoListaRestaurante"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -59,7 +60,7 @@
         />
 
     <TextView
-        android:id="@+id/telefonoRestaurante"
+        android:id="@+id/numeroRestaurante"
         android:layout_width="84dp"
         android:layout_height="20dp"
         android:layout_marginEnd="244dp"
@@ -71,6 +72,7 @@
         app:layout_constraintHorizontal_bias="0.04"/>
 
     <TextView
+        android:id="@+id/PlatoRecomendado"
         android:layout_width="407dp"
         android:layout_height="26dp"
         android:layout_marginEnd="4dp"

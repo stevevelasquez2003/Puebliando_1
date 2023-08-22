@@ -7,6 +7,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <TextView
+        android:id="@+id/nombreListaSitio"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Nombre : Piedra el peñol"
@@ -20,7 +21,8 @@
         app:layout_constraintVertical_bias="0.022" />
 
     <ImageView
-        android:id="@+id/guatape"
+
+        android:id="@+id/fotoListaSitios"
         android:layout_width="380dp"
         android:layout_height="245dp"
         android:src="@drawable/guataped"
@@ -31,7 +33,7 @@
         app:layout_constraintVertical_bias="0.131" />
 
     <TextView
-        android:id="@+id/RangoHoteles"
+        android:id="@+id/rangoListaSitios"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-condensed"
@@ -41,11 +43,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.045"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/guatape"
+        app:layout_constraintTop_toBottomOf="@id/fotoListaSitios"
         app:layout_constraintVertical_bias="0.219" />
 
     <TextView
-        android:id="@+id/Telefono2"
+        android:id="@+id/telefonoListaSitios"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-condensed"
@@ -56,12 +58,12 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.019"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/guatape"
+        app:layout_constraintTop_toBottomOf="@id/fotoListaSitios"
         app:layout_constraintVertical_bias="0.15" />
 
 
     <TextView
-        android:id="@+id/telefonoRestaurante"
+        android:id="@+id/nuemroListaSitios"
         android:layout_width="84dp"
         android:layout_height="20dp"
         android:layout_marginEnd="252dp"
@@ -72,6 +74,7 @@
         app:layout_constraintEnd_toEndOf="parent" />
 
     <TextView
+        android:id="@+id/contactoListaSitios"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="272dp"
@@ -85,6 +88,7 @@
         app:layout_constraintVertical_bias="0.963" />
 
     <TextView
+        android:id="@+id/nombreContacto"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Steven Arango"
@@ -92,6 +96,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.225"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/guatape"
+        app:layout_constraintTop_toBottomOf="@id/fotoListaSitios"
         app:layout_constraintVertical_bias="0.29" />
 </android.support.constraint.ConstraintLayout>

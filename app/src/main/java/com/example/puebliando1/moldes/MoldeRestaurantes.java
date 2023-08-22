@@ -2,7 +2,7 @@ package com.example.puebliando1.moldes;
 
 public class MoldeRestaurantes {
   private  String nombre;
-    private  String foto;
+    private  Integer foto;
     private  String telefono;
     private  String rangoPrecio;
     private  String platoRecomendado;
@@ -10,7 +10,7 @@ public class MoldeRestaurantes {
     public MoldeRestaurantes() {
     }
 
-    public MoldeRestaurantes(String nombre, String foto, String telefono, String rangoPrecio, String platoRecomendado) {
+    public MoldeRestaurantes(String nombre, Integer foto, String telefono, String rangoPrecio, String platoRecomendado) {
         this.nombre = nombre;
         this.foto = foto;
         this.telefono = telefono;
@@ -26,11 +26,11 @@ public class MoldeRestaurantes {
         this.nombre = nombre;
     }
 
-    public String getFoto() {
+    public Integer getFoto() {
         return foto;
     }
 
-    public void setFoto(String foto) {
+    public void setFoto(Integer foto) {
         this.foto = foto;
     }
 

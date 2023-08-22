@@ -36,7 +36,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="$513000 COP"
-        android:textSize="20dp"
+        android:textSize="19dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.048"
@@ -47,11 +47,11 @@
         />
 
     <TextView
-        android:id="@+id/contactoHotel"
+        android:id="@+id/contactoListaHotel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="contacto:"
-        android:textSize="20dp"
+        android:textSize="19dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.042"
@@ -60,11 +60,11 @@
         app:layout_constraintVertical_bias="0.048" />
 
     <TextView
-        android:id="@+id/telefonoContactoh"
+        android:id="@+id/telefonoContactoHotel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="3225286688"
-        android:textSize="20dp"
+        android:textSize="19dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.632"

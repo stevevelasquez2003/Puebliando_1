@@ -1,6 +1,6 @@
 package com.example.puebliando1.moldes;
 
-public class Moldehotel {
+public class Moldehotel {//lo que va a variar de la lista
    private String nombre;
    private String precio;
    private  String telefono;
